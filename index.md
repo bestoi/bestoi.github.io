@@ -1,0 +1,18 @@
+<h1>提供月赛丙组前1~4题代码</h1>
+
+<h6><font color="red">有意者请私信<a href="https://noi.top/profiles/3973/"><font color=blue>ysdm</a></font>进行询问</h6></font>
+
+<h2>示例</h2>
+
+```
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+	cout<<"HELLO YSDM"<<endl;
+	return 0;
+} 
+```
+  
+  <h3>固定聊天:</h3> <a href="https://hack.chat/?ysdm">点击跳转</a>
+  
+ 
