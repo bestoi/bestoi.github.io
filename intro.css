@@ -179,6 +179,11 @@
     border-bottom: 1.5px solid #7FFFD4;
 }
 
+.rin-btn-qing:hover {
+    background-color: #7FFFD4;
+    transition: all .3s;
+}
+
 .rin-btn-black:hover {
     background-color: #353535;
     transition: all .3s;
@@ -193,7 +198,6 @@
     color: black;
     transition: all .3s;
 }
-
 .rin-tr {
     margin-top: 40px;
     margin-bottom: 20px;
